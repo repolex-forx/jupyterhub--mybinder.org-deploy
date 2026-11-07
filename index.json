@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "mybinder.org-deploy",
+  "versions": [
+    {
+      "commit": "6b57625db7e0a33e12c8264e976b7c8e1d0cd3a7",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:45:27.060060+00:00"
+    }
+  ]
+}
