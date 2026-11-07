@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/mybinder.org-deploy/commit/6b57625db7e0a33e12c8264e976b7c8e1d0cd3a7",
       "git:hexsha": "6b57625db7e0a33e12c8264e976b7c8e1d0cd3a7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/mybinder.org-deploy/commit/290299f4ed4f1f1cb3feb5a1c53f2d6b468999e5",
